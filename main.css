@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+p{
+    background-color: aquamarine;
+    color: black;
+    border: 2px solid red;
+    margin-bottom: 20px;
+}
+img{
+    border: 10px solid green;
+    box-shadow: 10px 10px 10px 10px red;
+    margin-bottom: 50px;
+   
+}
+
+.img_cover{
+    display: flex;
+    gap: 40px;
+}
